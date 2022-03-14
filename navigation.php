@@ -38,6 +38,7 @@
                         <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
                         <li class="nav-item"><a href="courses.php" class="nav-link">Courses</a></li>
                         <li class="nav-item"><a href="staff.php" class="nav-link">Staff</a></li>
+                        <li class="nav-item"><a href="library.php" class="nav-link">Library</a></li>
                         <li class="nav-item"><a href="facilities.php" class="nav-link">Facilities</a></li>
                         <li class="nav-item"><a href="contact.php" class="nav-link">Contact</a></li>
                         <a href="ims

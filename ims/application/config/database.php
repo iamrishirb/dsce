@@ -76,9 +76,14 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
+	//Development Server Configurations
 	'username' => 'root',
 	'password' => '',
 	'database' => 'dsce_lms',
+	//Production Server Configurations
+	// 'username' => 'u827460382_dsce',
+	// 'password' => 'dsceIMS@2022',
+	// 'database' => 'u827460382_dsce_ims',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

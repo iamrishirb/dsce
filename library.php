@@ -2,22 +2,23 @@
     include 'header.php';
 ?>
 
-<section class="hero-wrap hero-wrap-2" style="background-image: url('images/banner4.jpg');">
-    <div class="overlay"></div>
-    <div class="container">
-        <div class="row no-gutters slider-text align-items-center justify-content-center">
-            <div class="col-md-9 ftco-animate text-center">
-                <h1 class="mb-2 bread">College Library</h1>
-                <p class="breadcrumbs"><span class="mr-2"><a href="index.php">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>College Library </span></p>
-            </div>
-        </div>
+<!-- slider section -->
+<section class="home-slider library-slider owl-carousel" style="height: 400px;">
+    <div class="slider-item" style="background-image:url(images/books.jpg);">
+    </div>
+    <div class="slider-item" style="background-image:url(images/library.jpeg);">
+    </div>
+    <div class="slider-item" style="background-image:url(images/lab.jpg);">
+    </div>
+    <div class="slider-item" style="background-image:url(images/bookshelf.jpg);">
     </div>
 </section>
 
+<br><br>
 <!-- feature block -->
 <section class="ftco-services ftco-no-pb mt-4">
     <div class="container">
-        <div class="row no-gutters">
+        <div class="row gutters">
             <div class="col-md-4 d-flex services mt-4 align-self-stretch py-5 px-4 ftco-animate bg-primary">
                 <div class="media block-6 d-block text-center">
                     <div class="media-body p-2 mt-3">

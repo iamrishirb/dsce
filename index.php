@@ -277,7 +277,7 @@
                 <div class="block-18">
                     <div class="icon"><span class="flaticon-doctor"></span></div>
                     <div class="text">
-                    <strong class="number" data-number="2550">0</strong>
+                    <strong class="number" data-number="4225">0</strong>
                     <span>Books</span>
                     </div>
                 </div>
@@ -286,8 +286,8 @@
                 <div class="block-18">
                     <div class="icon"><span class="flaticon-doctor"></span></div>
                     <div class="text">
-                    <strong class="number" data-number="500">0</strong>
-                    <span>Academic Titles</span>
+                    <strong class="number" data-number="08">0</strong>
+                    <span>Journals</span>
                     </div>
                 </div>
                 </div>

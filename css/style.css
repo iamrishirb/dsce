@@ -8607,6 +8607,13 @@ h1, h2, h3, h4, h5,
         background: #800000; }
         .owl-carousel.home-slider .owl-dots .owl-dot.active {
           background: #fff; }
+          .owl-carousel.library-slider .owl-dots {
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: -60px;
+            width: 100%;
+            text-align: center; }
 
 .bg-light {
   background: #fafafa !important; }
